@@ -1,3 +1,3 @@
 # virtualcloset
 
-#### Esse é o nosso projeto
+Um site onde é possível ver as modas atuais, para todos os sexos.
